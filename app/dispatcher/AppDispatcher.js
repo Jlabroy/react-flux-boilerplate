@@ -1,4 +1,4 @@
-include { Dispatcher } from 'flux';
+import { Dispatcher } from 'flux';
 
 class DispatcherClass extends Dispatcher {
 
